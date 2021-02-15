@@ -1,0 +1,410 @@
+ Total Epoch : 67
+ Average X-Mean : 0.0134618
+ Average Y-Mean : 0.0169005
+ Average X-Standard Deviation : 0.0237382
+ Average Y-Standard Deviation : 0.0232504
+
+
+
+Epoch : 1
+ X_Mean : -0.155057
+ Y_Mean : -0.292114
+ X_Standard Diviation : 0.0287134
+ Y_Standard Diviation : 0.0295586
+
+ Epoch : 2
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 3
+ X_Mean : 0.0291405
+ Y_Mean : -0.0157209
+ X_Standard Diviation : 0.0299036
+ Y_Standard Diviation : 0.0280055
+
+ Epoch : 4
+ X_Mean : 0.0797574
+ Y_Mean : 0.237335
+ X_Standard Diviation : 0.0293499
+ Y_Standard Diviation : 0.0248876
+
+ Epoch : 5
+ X_Mean : 0.183866
+ Y_Mean : -0.086344
+ X_Standard Diviation : 0.031379
+ Y_Standard Diviation : 0.0283286
+
+ Epoch : 6
+ X_Mean : -0.349952
+ Y_Mean : -0.473578
+ X_Standard Diviation : 0.0323096
+ Y_Standard Diviation : 0.0274605
+
+ Epoch : 7
+ X_Mean : 0.33886
+ Y_Mean : 0.0528712
+ X_Standard Diviation : 0.0288243
+ Y_Standard Diviation : 0.03513
+
+ Epoch : 8
+ X_Mean : 0.362819
+ Y_Mean : -0.0778145
+ X_Standard Diviation : 0.0332656
+ Y_Standard Diviation : 0.0353417
+
+ Epoch : 9
+ X_Mean : 0.0554761
+ Y_Mean : -0.557557
+ X_Standard Diviation : 0.0297561
+ Y_Standard Diviation : 0.0322561
+
+ Epoch : 10
+ X_Mean : -0.0860534
+ Y_Mean : -0.116983
+ X_Standard Diviation : 0.0286303
+ Y_Standard Diviation : 0.0295817
+
+ Epoch : 11
+ X_Mean : 0.351667
+ Y_Mean : 0.147642
+ X_Standard Diviation : 0.0306089
+ Y_Standard Diviation : 0.0281167
+
+ Epoch : 12
+ X_Mean : -0.23311
+ Y_Mean : 0.192564
+ X_Standard Diviation : 0.0215175
+ Y_Standard Diviation : 0.0249014
+
+ Epoch : 13
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 14
+ X_Mean : 0.274879
+ Y_Mean : 0.243072
+ X_Standard Diviation : 0.0271334
+ Y_Standard Diviation : 0.0287072
+
+ Epoch : 15
+ X_Mean : 0.162361
+ Y_Mean : 0.0151318
+ X_Standard Diviation : 0.0274002
+ Y_Standard Diviation : 0.0270703
+
+ Epoch : 16
+ X_Mean : -0.158313
+ Y_Mean : 0.261396
+ X_Standard Diviation : 0.0258868
+ Y_Standard Diviation : 0.0275717
+
+ Epoch : 17
+ X_Mean : -0.367451
+ Y_Mean : 0.193759
+ X_Standard Diviation : 0.0291884
+ Y_Standard Diviation : 0.0330504
+
+ Epoch : 18
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 19
+ X_Mean : -0.499903
+ Y_Mean : 0.0421808
+ X_Standard Diviation : 0.0278826
+ Y_Standard Diviation : 0.0298267
+
+ Epoch : 20
+ X_Mean : -0.0387403
+ Y_Mean : -0.124894
+ X_Standard Diviation : 0.0322507
+ Y_Standard Diviation : 0.0264797
+
+ Epoch : 21
+ X_Mean : 0.286238
+ Y_Mean : 0.0871882
+ X_Standard Diviation : 0.0284739
+ Y_Standard Diviation : 0.027533
+
+ Epoch : 22
+ X_Mean : -0.0767078
+ Y_Mean : -0.122907
+ X_Standard Diviation : 0.026931
+ Y_Standard Diviation : 0.0278913
+
+ Epoch : 23
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 24
+ X_Mean : 0.206203
+ Y_Mean : 0.292507
+ X_Standard Diviation : 0.0345434
+ Y_Standard Diviation : 0.0250166
+
+ Epoch : 25
+ X_Mean : -0.239211
+ Y_Mean : 0.00338697
+ X_Standard Diviation : 0.029752
+ Y_Standard Diviation : 0.031618
+
+ Epoch : 26
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 27
+ X_Mean : 0.299303
+ Y_Mean : -0.0380785
+ X_Standard Diviation : 0.0364222
+ Y_Standard Diviation : 0.0224803
+
+ Epoch : 28
+ X_Mean : -0.111163
+ Y_Mean : -0.0351606
+ X_Standard Diviation : 0.0358407
+ Y_Standard Diviation : 0.03128
+
+ Epoch : 29
+ X_Mean : 0.0571583
+ Y_Mean : 0.582865
+ X_Standard Diviation : 0.0293657
+ Y_Standard Diviation : 0.0318456
+
+ Epoch : 30
+ X_Mean : 0.0444557
+ Y_Mean : -0.222923
+ X_Standard Diviation : 0.0227689
+ Y_Standard Diviation : 0.0272977
+
+ Epoch : 31
+ X_Mean : -0.310744
+ Y_Mean : 0.116992
+ X_Standard Diviation : 0.0278517
+ Y_Standard Diviation : 0.0278461
+
+ Epoch : 32
+ X_Mean : -0.351931
+ Y_Mean : -0.0798555
+ X_Standard Diviation : 0.0338416
+ Y_Standard Diviation : 0.0295637
+
+ Epoch : 33
+ X_Mean : 0.0941258
+ Y_Mean : -0.0517381
+ X_Standard Diviation : 0.0302404
+ Y_Standard Diviation : 0.0255177
+
+ Epoch : 34
+ X_Mean : 0.172786
+ Y_Mean : -0.135108
+ X_Standard Diviation : 0.0232821
+ Y_Standard Diviation : 0.0271998
+
+ Epoch : 35
+ X_Mean : -0.0238391
+ Y_Mean : -0.764519
+ X_Standard Diviation : 0.0295751
+ Y_Standard Diviation : 0.0309836
+
+ Epoch : 36
+ X_Mean : -0.28061
+ Y_Mean : 0.408135
+ X_Standard Diviation : 0.0290491
+ Y_Standard Diviation : 0.0285948
+
+ Epoch : 37
+ X_Mean : -0.287939
+ Y_Mean : 0.256108
+ X_Standard Diviation : 0.0298693
+ Y_Standard Diviation : 0.0288103
+
+ Epoch : 38
+ X_Mean : 0.435052
+ Y_Mean : -0.0613784
+ X_Standard Diviation : 0.0292634
+ Y_Standard Diviation : 0.0270882
+
+ Epoch : 39
+ X_Mean : -0.14489
+ Y_Mean : -0.498705
+ X_Standard Diviation : 0.0274393
+ Y_Standard Diviation : 0.0310011
+
+ Epoch : 40
+ X_Mean : 0.0829831
+ Y_Mean : 0.254079
+ X_Standard Diviation : 0.0320996
+ Y_Standard Diviation : 0.0276856
+
+ Epoch : 41
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 42
+ X_Mean : 0.14942
+ Y_Mean : 0.108896
+ X_Standard Diviation : 0.0306153
+ Y_Standard Diviation : 0.0295001
+
+ Epoch : 43
+ X_Mean : 0.180939
+ Y_Mean : -0.201306
+ X_Standard Diviation : 0.0231111
+ Y_Standard Diviation : 0.0237309
+
+ Epoch : 44
+ X_Mean : 0.0143781
+ Y_Mean : 0.313777
+ X_Standard Diviation : 0.0213127
+ Y_Standard Diviation : 0.0270314
+
+ Epoch : 45
+ X_Mean : 0.0115533
+ Y_Mean : 0.102556
+ X_Standard Diviation : 0.0298402
+ Y_Standard Diviation : 0.0248419
+
+ Epoch : 46
+ X_Mean : 0.209936
+ Y_Mean : -0.275678
+ X_Standard Diviation : 0.0362046
+ Y_Standard Diviation : 0.0255289
+
+ Epoch : 47
+ X_Mean : 0.442779
+ Y_Mean : 0.230742
+ X_Standard Diviation : 0.0274912
+ Y_Standard Diviation : 0.0268552
+
+ Epoch : 48
+ X_Mean : -0.471751
+ Y_Mean : 0.13549
+ X_Standard Diviation : 0.0266195
+ Y_Standard Diviation : 0.027214
+
+ Epoch : 49
+ X_Mean : 0.0488005
+ Y_Mean : 0.29192
+ X_Standard Diviation : 0.0255121
+ Y_Standard Diviation : 0.0297493
+
+ Epoch : 50
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 51
+ X_Mean : 0.0377451
+ Y_Mean : -0.184991
+ X_Standard Diviation : 0.0293801
+ Y_Standard Diviation : 0.0294713
+
+ Epoch : 52
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 53
+ X_Mean : -0.0114989
+ Y_Mean : 0.483857
+ X_Standard Diviation : 0.025939
+ Y_Standard Diviation : 0.0249299
+
+ Epoch : 54
+ X_Mean : 0.320323
+ Y_Mean : 0.470659
+ X_Standard Diviation : 0.0213122
+ Y_Standard Diviation : 0.0227739
+
+ Epoch : 55
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 56
+ X_Mean : 0.0548833
+ Y_Mean : -0.0458536
+ X_Standard Diviation : 0.0304277
+ Y_Standard Diviation : 0.0287342
+
+ Epoch : 57
+ X_Mean : -0.0747237
+ Y_Mean : -0.110752
+ X_Standard Diviation : 0.02944
+ Y_Standard Diviation : 0.0285109
+
+ Epoch : 58
+ X_Mean : -0.343174
+ Y_Mean : 0.588303
+ X_Standard Diviation : 0.0281554
+ Y_Standard Diviation : 0.0294066
+
+ Epoch : 59
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 60
+ X_Mean : -0.01752
+ Y_Mean : -0.353229
+ X_Standard Diviation : 0.0313832
+ Y_Standard Diviation : 0.0319868
+
+ Epoch : 61
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 62
+ X_Mean : -0.170295
+ Y_Mean : -0.17239
+ X_Standard Diviation : 0.0335006
+ Y_Standard Diviation : 0.0310967
+
+ Epoch : 63
+ X_Mean : 0
+ Y_Mean : 0
+ X_Standard Diviation : 0
+ Y_Standard Diviation : 0
+
+ Epoch : 64
+ X_Mean : 0.386734
+ Y_Mean : 0.188891
+ X_Standard Diviation : 0.0215745
+ Y_Standard Diviation : 0.0249586
+
+ Epoch : 65
+ X_Mean : 0.0575099
+ Y_Mean : -0.189312
+ X_Standard Diviation : 0.0245974
+ Y_Standard Diviation : 0.0250666
+
+ Epoch : 66
+ X_Mean : 0.318089
+ Y_Mean : 0.054491
+ X_Standard Diviation : 0.0326773
+ Y_Standard Diviation : 0.0279196
+
+ Epoch : 67
+ X_Mean : -0.0437
+ Y_Mean : 0.064427
+ X_Standard Diviation : 0.0307567
+ Y_Standard Diviation : 0.0329425
+
